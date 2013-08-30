@@ -1,0 +1,4 @@
+syntax: glob
+addons/metamod/
+addons/sourcemod/
+cfg/sourcemod/

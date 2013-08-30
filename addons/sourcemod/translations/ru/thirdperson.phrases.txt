@@ -1,0 +1,42 @@
+"Phrases"
+{
+	"Firstperson Enabled"
+	{
+		"ru"			"Вид от первого лица включён"
+	}
+
+	"Firstperson Already Enabled"
+	{
+		"ru"			"Вид от первого лица уже был включён"
+	}
+
+	"Thirdperson Enabled"
+	{
+		"ru"			"Вид от третьеого лица включён"
+	}
+	
+	"Thirdperson Already Enabled"
+	{
+		"ru"			"Вид от третьеого лица уже был включён"
+	}
+	
+	"Select View"
+	{
+		"ru"			"Выберите вид"
+	}
+	
+	"Third Person"
+	{
+		"ru"			"От третьего лица"
+	}
+	
+	"First Person"
+	{
+		"ru"			"От первого лица"
+	}
+	
+	"Plugin Notice"
+	{
+		"ru"			"Чтобы выбрать желаемый вид, введите {1}view{2} в чате. Используйте {3}fp{4} или {5}tp{6} для более быстрой смены вида."
+	}
+}
